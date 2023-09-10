@@ -73,7 +73,7 @@ It can move two squares horizontally and one square vertically (or vice versa).
 * Versatility: Due to its ability to move in multiple directions and cover long distances, the queen is often considered the most versatile and powerful piece on the board. It can control and influence a significant portion of the chessboard, making it a critical asset in both offense and defense.
 
 
-## Acknowledgements
+## Reference:
 
  - [chess](https://www.chess.com/learn-how-to-play-chess#chess-pieces-move)
  
